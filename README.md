@@ -1,16 +1,9 @@
 # important_links
 
-A new Flutter project.
+## Flutter app which contains all the important links embedded in it.
 
-## Getting Started
+# Run the app and then you can enter your respective usernames for LinkedIn/Github and go ahead and use it!! 🥳
 
-This project is a starting point for a Flutter application.
+Disclaimer : If you want to use another username, then close the app and then open it again and then enter another username.
+(This will be corrected in the future updates)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
